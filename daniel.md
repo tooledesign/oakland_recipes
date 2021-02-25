@@ -2,7 +2,9 @@
 
 ![Photo of yummy Citrus Chicken Recipe on a dining plate](https://images.squarespace-cdn.com/content/v1/541b1515e4b0a990b33a796e/1567023871119-UDIZO1MGLAD74DMTRV6W/ke17ZwdGBToddI8pDm48kIIWdAnyBSrZ5E6Gv7JXlDh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO_pbVb0jdkjHmk-MhSr8npod9fyhKaF6iH64GfT8sX2GQ/mains.jpg?format=500w)
 
-Source: [Nothing Fancy by Alison Roman](https://www.alisoneroman.com/nothing-fancy)
+[![Photo of yummy Citrus Chicken Recipe on a dining plate](https://images.squarespace-cdn.com/content/v1/541b1515e4b0a990b33a796e/1567023871119-UDIZO1MGLAD74DMTRV6W/ke17ZwdGBToddI8pDm48kIIWdAnyBSrZ5E6Gv7JXlDh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO_pbVb0jdkjHmk-MhSr8npod9fyhKaF6iH64GfT8sX2GQ/mains.jpg?format=500w)](https://www.alisoneroman.com/nothing-fancy)
+
+Source: [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy) by Alison Roman
 
 *serves 4 to 6*
 
