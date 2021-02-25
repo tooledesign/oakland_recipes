@@ -4,6 +4,7 @@ title: Thomas Hillman
 parent: Recipes
 nav_order: 3
 ---
+<a id="top"></a> 
 # Tom's Home-Made Pizza
 ![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)
 <br>
@@ -71,7 +72,7 @@ As preferred (salami, bell peppers, mushrooms, spinach, onions, etc.).
 <br>
 <br>
 <br>
-[Back to top](top)
+[Back to top](#top)
 
 
 
