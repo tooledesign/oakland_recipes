@@ -43,6 +43,4 @@ Cooking 🕘 1 hour
 <br>
 <br>
 <br>
-<br>
-<br>
 [Back to top](top)
