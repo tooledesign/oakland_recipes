@@ -4,8 +4,9 @@ title: Wendy Phelps
 parent: Recipes
 nav_order: 5
 ---
-# Orecchiette With Bacony Collards & Cannellini Beans
-[![Photo of yummy orecchiette recipe on a dining plate](https://images.food52.com/Ym9yhVJGuCxS-O03fjxU5Nm9C9k=/1008x672/filters:format(webp)/43176ccb-6456-4214-8061-ec285771afa5--2020-1023_orecchiette-collards-cannellini_3x2_julia-gartland_156.jpg)](https://www.cookingclassy.com/california-roll-sushi-bowls/)
+# California Roll Sushi Bowls
+<a href="https://www.cookingclassy.com/california-roll-sushi-bowls/">
+<img src="https://www.cookingclassy.com/wp-content/uploads/2016/09/california_roll_sushi_bowl5..jpg" style="transform:rotate(90deg);">
 Source: Soha el-Waylly, *[Food 52](https://www.alisoneroman.com/nothing-fancy)*
 Cooking 🕘 1 hour 30 min
 *serves 4*
