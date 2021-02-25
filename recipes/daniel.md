@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Daniel
+title: Daniel Patterson
 parent: Recipes
 nav_order: 2
 ---
