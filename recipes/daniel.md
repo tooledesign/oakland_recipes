@@ -49,6 +49,4 @@ Chicken can be cooked a few hours ahead, loosely covered with foil, and kept at 
 <br>
 <br>
 <br>
-<br>
-<br>
 [Back to top](top)
