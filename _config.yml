@@ -1,5 +1,8 @@
-logo: "https://uxrecipe.github.io/img/uxrecipe-logo.png"
+logo: "https://cdn.iconscout.com/icon/premium/png-128-thumb/chef-cap-1505713-1274522.png"
 title: "Recipes"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
