@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Citrus Chicken Rested in Herbs
+title: Daniel
 parent: Recipes
 nav_order: 2
 ---
