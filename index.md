@@ -15,4 +15,4 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 [Citrus Chicken Rested in Garlic](daniel.md) from Daniel Paterson 
 
 
-footer_content: "Copyright &copy; 2021 Mid-Atlantic Planning Team.  Chef delivery logo Designed by Vexels.com, used with perpmission. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+
