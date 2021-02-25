@@ -13,7 +13,7 @@ has_toc: false
 [Brown Butter Skillet Cornbread](recipes/dan.md) from Dan Goodman
 <br>
 <br>
-[Orecchiette With Bacony Collards & Cannellini Beans](recipes/daniel.md) from Katie Heuser
+[Orecchiette With Bacony Collards & Cannellini Beans](recipes/katie.md) from Katie Heuser
 <br>
 <br>
 [Tom's Home-Made Pizza](recipes/tom.md) from Thomas Hillman
