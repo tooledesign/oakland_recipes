@@ -8,10 +8,11 @@ nav_order: 5
 [![Photo of yummy Citrus Chicken Recipe on a dining plate](https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2019/11/25/10/citruschickenalisonroman-0.jpg?width=990&auto=webp&quality=75)](https://www.alisoneroman.com/nothing-fancy)
 Source: [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy) by Alison Roman
 <br>
+<br>
 Cooking 🕘 1 hour 30 min
 <br>
-*serves 4 to 6*
 <br>
+*serves 4 to 6*
 <br>
 ## Ingredients
 
