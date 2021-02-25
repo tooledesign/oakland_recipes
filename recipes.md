@@ -9,11 +9,12 @@ has_toc: false
 # Our Favorite Recipes, for You
 <br>
 <br>
+<br>
 [Brown Butter Skillet Cornbread](recipes/dan.md) from Dan Goodman
 <br>
 [Orecchiette With Bacony Collards & Cannellini Beans](recipes/daniel.md) from Katie Heuser
 <br>
-[Tom's Home-Made Pizza] from Thomas Hillman
+[Tom's Home-Made Pizza](recipes/tom.md) from Thomas Hillman
 <br>
 [Coconut Ginger Carrot Soup](recipes/hugh.md) from Deryn Macey
 <br>
