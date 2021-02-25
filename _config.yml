@@ -4,5 +4,5 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
 search_enabled: true
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Recipes for Oakland":
+    - "//github.com/tomhillman/oakland_recipes/"
