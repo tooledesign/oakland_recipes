@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Citrus Chicken Rested in Herbs
-nav_order: 4
-parent: recipes
+parent: Recipes
+nav_order: 2
 ---
 # Citrus Chicken Rested in Herbs
 
