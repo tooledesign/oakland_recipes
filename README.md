@@ -1,4 +1,3 @@
-![Chef on a bike logo by Vexels](https://tooledesign.github.io/oakland_recipes/chef-delivery-logo-by-Vexels.png)
 <img src="https://tooledesign.github.io/oakland_recipes/chef-delivery-logo-by-Vexels.png" alt="Chef on a bike logo by Vexels" width="150">
 
 # Recipes for Oakland 
