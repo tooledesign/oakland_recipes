@@ -19,6 +19,5 @@ Thanks for the Valentine's Day 💌. We really appreciated you sharing some 💓
 *The Mid-Atlantic Planning Team*
 <br>
 <br>
-<br>
 ![Image](Mid-Atlantic%20Planning%20Team_trim.png)
 
