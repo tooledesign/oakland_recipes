@@ -40,3 +40,9 @@ Cooking 🕘 1 hour
 
 ### Step 3 
 <input type="checkbox" enabled /> If the skillet is no longer hot (cast iron retains heat longer than other metals), reheat it briefly on the stove for a few minutes. Scrape batter back into it. Bake until the top is golden brown and a toothpick inserted into it emerges clean, 30 to 40 minutes. Cool in the skillet for 10 minutes before slicing.
+<br>
+<br>
+<br>
+<br>
+<br>
+[Back to top](top)
