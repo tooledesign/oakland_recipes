@@ -1,3 +1,9 @@
+---
+layout: default
+title: UI Components
+nav_order: 1
+parent: recipes
+---
 # Brown Butter Skillet Cornbread
 
 <iframe width="480" height="373" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/bcvideo/1.0/iframe/embed.html?videoId=100000003221154&playerType=embed"></iframe>
