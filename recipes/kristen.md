@@ -2,7 +2,7 @@
 layout: default
 title: Kristen Saunders (from PGH!)
 parent: Recipes
-nav_order: 6
+nav_order: 7
 ---
 # Plants Only Kitchen
 [![Photo of yummy orecchiette recipe on a dining plate](https://www.avantgardevegan.com/wp-content/uploads/2020/06/plants-only-kitchen-5.png)](https://www.avantgardevegan.com/books/plants-only-kitchen/)
