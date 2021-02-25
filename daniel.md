@@ -6,13 +6,22 @@
 
 Source: [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy) by Alison Roman
 
-Cooking :clock9: 1 hour 30 min
+Cooking 🕘 1 hour 30 min
 
 *serves 4 to 6*
 
 ## Ingredients
 
-2 tablespoons (1 1/2 sticks)/170 grams unsalted butter ½ cup/120 ml maple syrup 2 ¼ cups/530 ml buttermilk 3 large eggs 1 ½ cups/180 grams yellow cornmeal, fine or medium-coarse grind ½ cup/65 grams whole wheat flour ½ cup/60 grams all-purpose flour 1 ½ tablespoons/18 grams baking powder 1 ½ teaspoons/9 grams kosher salt ½ teaspoon/5 grams baking soda
+<input type="checkbox" enabled /> 2 tablespoons (1 1/2 sticks)/170 grams unsalted butter <br>
+<input type="checkbox" enabled /> ½ cup/120 ml maple syrup <br>
+<input type="checkbox" enabled /> 2 ¼ cups/530 ml buttermilk <br>
+<input type="checkbox" enabled /> 3 large eggs <br>
+<input type="checkbox" enabled /> 1 ½ cups/180 grams yellow cornmeal, fine or medium-coarse grind <br>
+<input type="checkbox" enabled /> ½ cup/65 grams whole wheat flour <br>
+<input type="checkbox" enabled /> ½ cup/60 grams all-purpose flour <br>
+<input type="checkbox" enabled /> 1 ½ tablespoons/18 grams baking powder <br>
+<input type="checkbox" enabled /> 1 ½ teaspoons/9 grams kosher salt <br>
+<input type="checkbox" enabled /> ½ teaspoon/5 grams baking soda <br>
 
 ## Preparation
 
