@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Brown Butter Skillet Cornbread
-nav_order: 3
 parent: recipes
+nav_order: 1
 ---
 # Brown Butter Skillet Cornbread
 
