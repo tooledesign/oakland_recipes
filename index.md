@@ -3,7 +3,8 @@ layout: default
 title: Hello, Oakland!
 nav_order: 1
 ---
-![Image](chef-delivery-logo-by-Vexels.png){width=30%}
+<img src="chef-delivery-logo-by-Vexels.png" alt="drawing" width="30%"/>
+
 ## Hello, Oakland!
 
 ![Image](Mid-Atlantic%20Planning%20Team.png)
