@@ -7,8 +7,11 @@ nav_order: 3
 # Orecchiette With Bacony Collards & Cannellini Beans
 ![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)<br>
 Source: Thomas Hillman, *dough adapted from [American Pie](https://www.goodreads.com/book/show/68648.American_Pie) by Peter Reinhart*
+<br>
 Cooking 🕘 2 hrs
+<br>
 *serves 8*
+<br>
 <br>
 ## Ingredients
 ### Dough
