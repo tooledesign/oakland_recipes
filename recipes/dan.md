@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dan G.
+title: Dan Goodman
 parent: Recipes
 nav_order: 1
 ---
