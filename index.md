@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Hello, Oakland!
+title: Home
 nav_order: 1
 ---
 <a id="top"></a> 
-<head>
 <center><img src="chef-delivery-logo-by-Vexels.png" alt="drawing" width="30%"/></center>
 ## Hello, Oakland!
 <br>
