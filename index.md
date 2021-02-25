@@ -14,4 +14,4 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 <br>
 [Citrus Chicken Rested in Garlic](daniel.md) from Daniel Paterson 
 
-[Back to top](https://tomhillman.github.io/oakland_recipes/index.md/#top)
+[Back to top](#top)
