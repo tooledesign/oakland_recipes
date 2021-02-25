@@ -1,6 +1,14 @@
-# Brown Butter Skillet Cornbread
+[![Brown Butter Skillet Cornbread](/cornbread.png)](https://nyti.ms/2nLe3h2) 
 
-[!Brown Butter Skillet Cornbread](/cornbread.png)](https://nyti.ms/2nLe3h2) 
+Source: [NYT Cooking](https://www.alisoneroman.com/nothing-fancy) Brown Butter Skillet Cornbread by Melissa Clark
+
+Cooking 🕘 1 hour
+
+*serves 12*
+
+# Brown Butter Skillet Cornbread
+<br>
+
 
 ## Ingredients
 <br>
