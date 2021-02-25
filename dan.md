@@ -1,6 +1,6 @@
 # Brown Butter Skillet Cornbread
 
-{% include videos.html id="2nLe3h2" %}
+[![Alternate Text]({cornbread.png})]({https://nyti.ms/2nLe3h2} "Brown Butter Skillet Cornbread")
 
 ## Ingredients
 
