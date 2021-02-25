@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Brown Butter Skillet Cornbread
+title: Dan G.
 parent: Recipes
 nav_order: 1
 ---
