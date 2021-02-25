@@ -8,10 +8,11 @@ nav_order: 6
 [![Photo of yummy california roll sushi bowl recipe on a dining plate](recipes/wendy_recipe.jpg)](https://www.cookingclassy.com/california-roll-sushi-bowls/)  
 Source: Jaclyn, *[Cooking Classy](https://www.cookingclassy.com/california-roll-sushi-bowls/)*, via *[WholeFoods](https://www.wholefoodsmarket.com/recipes/california-roll-sushi-bowl)*
 <br>
+<br>
 Cooking 🕘 30 min
 <br>
-*serves 5*
 <br>
+*serves 5*
 <br>
 ## Ingredients
 <input type="checkbox" enabled /> 2 cups dry California Calrose Sushi Rice<br>
