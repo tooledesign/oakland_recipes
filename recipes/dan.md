@@ -9,7 +9,9 @@ nav_order: 1
 <iframe width="480" height="373" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/bcvideo/1.0/iframe/embed.html?videoId=100000003221154&playerType=embed"></iframe>
 Source: Melissa Clark, *[NYT Cooking](https://cooking.nytimes.com/recipes/1016965-brown-butter-skillet-cornbread)*
 <br>
+<br>
 Cooking 🕘 1 hour
+<br>
 <br>
 *serves 12*
 <br>
