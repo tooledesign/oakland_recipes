@@ -12,4 +12,4 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 <br>
 [Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
 <br>
-[nothing fancy](daniel.md) from Daniel Paterson 
+[Citrus Chicken Rested in Garlic](daniel.md) from Daniel Paterson 
