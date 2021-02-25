@@ -4,6 +4,7 @@ title: Daniel Patterson
 parent: Recipes
 nav_order: 5
 ---
+<a id="idtext"></a> 
 # Citrus Chicken Rested in Herbs
 [![Photo of yummy Citrus Chicken Recipe on a dining plate](https://static.homesandproperty.co.uk/s3fs-public/thumbnails/image/2019/11/25/10/citruschickenalisonroman-0.jpg?width=990&auto=webp&quality=75)](https://www.alisoneroman.com/nothing-fancy)
 <br>
@@ -49,4 +50,4 @@ Chicken can be cooked a few hours ahead, loosely covered with foil, and kept at 
 <br>
 <br>
 <br>
-[Back to top](top)
+[Back to top](idtext)
