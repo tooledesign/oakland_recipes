@@ -1,4 +1,3 @@
-# [![Brown Butter Skillet Cornbread](/cornbread.png)](https://nyti.ms/2nLe3h2) 
 # Brown Butter Skillet Cornbread
 
 <iframe width="480" height="373" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="nyt_video_player" title="New York Times Video - Embed Player" src="https://static01.nyt.com/bcvideo/1.0/iframe/embed.html?videoId=100000003221154&playerType=embed"></iframe>
@@ -10,12 +9,9 @@ Cooking 🕘 1 hour
 
 *serves 12*
 
-
 <br>
 
-
-## Ingredients
-<br>
+## Ingredients <br>
 
 <input type="checkbox" enabled /> 2 tablespoons (1 1/2 sticks)/170 grams unsalted butter <br>
 <input type="checkbox" enabled /> ½ cup/120 ml maple syrup <br>
