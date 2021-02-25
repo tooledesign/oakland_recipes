@@ -1,6 +1,5 @@
 # Recipes for Oakland
-
-### From the Mid-Atlantic Planning Team
+#### *From the Mid-Atlantic Planning Team*
 
 February, 2021.
 
