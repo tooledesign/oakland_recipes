@@ -46,3 +46,9 @@ Cooking 🕘 1 hour 30 min
 
 #### *DO AHEAD:* 
 Chicken can be cooked a few hours ahead, loosely covered with foil, and kept at room temperature. Serve either at room temperature or throw it back into a 450°F oven (or on the grill) for a quick reheat
+<br>
+<br>
+<br>
+<br>
+<br>
+[Back to top](top)
