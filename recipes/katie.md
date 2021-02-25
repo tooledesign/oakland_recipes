@@ -43,3 +43,9 @@ Cooking 🕘 1 hour 30 min
 <input type="checkbox" enabled /> Add the pasta along with the soaking liquid and simmer, stirring constantly, until the pasta is al dente, 3 to 5 minutes. Remove from heat, add the cheese, butter, and reserved bacon, and stir well to combine. Taste and add more salt, black pepper, and red pepper flakes if needed.<br>
 ### Step 7
 <input type="checkbox" enabled /> Divide the pasta among 4 bowls and garnish with more cheese. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+[Back to top](top)
