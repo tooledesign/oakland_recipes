@@ -1,7 +1,7 @@
 ---
 layout: default
-title: UI Components
-nav_order: 1
+title: Brown Butter Skillet Cornbread
+nav_order: 3
 parent: recipes
 ---
 # Brown Butter Skillet Cornbread
