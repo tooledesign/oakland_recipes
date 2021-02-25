@@ -10,5 +10,6 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 
 ## Our Favorite Recipes, for You
 <br>
-- [Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
-- [nothing fancy](daniel.md) from Daniel Paterson 
+[Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
+<br>
+[nothing fancy](daniel.md) from Daniel Paterson 
