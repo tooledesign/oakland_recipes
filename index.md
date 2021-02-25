@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Hello, Oakland!
 nav_order: 1
 ---
 <a id="top"></a> 
