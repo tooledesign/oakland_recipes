@@ -6,9 +6,13 @@ nav_order: 4
 ---
 # Coconut Ginger Carrot Soup
 [![Photo of yummy orecchiette recipe on a dining plate](https://i2.wp.com/runningonrealfood.com/wp-content/uploads/2015/09/creamy-vegan-coconut-ginger-carrot-soup-running-on-real-food-15-700x1050.jpg)](https://runningonrealfood.com/coconut-ginger-carrot-soup-2/)
+<br>
+<br>
 Source: Deryn Macey, *[Running on Real Food](https://runningonrealfood.com/coconut-ginger-carrot-soup-2/)*
 <br>
+<br>
 Cooking 🕘 1 hr
+<br>
 <br>
 *serves 4*
 <br>
