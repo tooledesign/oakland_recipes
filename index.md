@@ -11,7 +11,7 @@ nav_order: 1
 
 ![Image](Mid-Atlantic%20Planning%20Team_trim.png)
 
-Thanks for the Valentine's Day 💌. We really appreciated you sharing some 💓 from coast to coast. Our team pulled together a few of our favorite recipes to show our gratitude.
+Thanks for the Valentine's Day 💌. We really appreciated you sharing some 💓 from coast to coast. Our team pulled together a few of our favorite [recipes](recipes.md) to show our gratitude.
 
 **Stay safe**, and happy \(almost) spring 🌱,<br>
 *The Mid-Atlantic Planning Team*
