@@ -7,6 +7,8 @@ nav_order: 5
 # California Roll Sushi Bowls
 <a href="https://www.cookingclassy.com/california-roll-sushi-bowls/">
 <img src="https://www.cookingclassy.com/wp-content/uploads/2016/09/california_roll_sushi_bowl5..jpg" style="transform:rotate(90deg);">
+</a>
+  
 Source: Soha el-Waylly, *[Food 52](https://www.alisoneroman.com/nothing-fancy)*
 Cooking 🕘 1 hour 30 min
 *serves 4*
