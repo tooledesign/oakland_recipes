@@ -6,17 +6,12 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 
 **Stay safe**, and happy \(almost) spring.
 
--the Mid-Atlantic Planners
+-the Mid-Atlantic Planning Team
 
 ## Our Favorite Recipes, for You
-
-[Brown Butter Skillet Cornbread](dan.md)
-from Dan Goodman
-
-```markdown
-### 
-
-- Bulleted
+<br>
+<br>
+- [Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
 - List
 
 1. Numbered
