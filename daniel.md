@@ -6,7 +6,7 @@
 
 Source: [Nothing Fancy](https://www.alisoneroman.com/nothing-fancy) by Alison Roman
 
-Cooking :clock9:: 1 hour 30 min
+Cooking :clock9:\: 1 hour 30 min
 
 *serves 4 to 6*
 
@@ -15,9 +15,7 @@ Ingredients
 
 ## Preparation
 
-### Step 1
-<input type="checkbox" id="horns" name="horns"> 
-<label for="horns">Horns</label>
+### <input type="checkbox" enabled /> Step 1
 Heat oven to 375 degrees. On the stovetop, in a 11- or 12-inch skillet (ovenproof and preferably cast iron), melt the butter over medium heat. Cook, swirling pan to lightly coat sides and bottom, until the foam subsides and the butter turns a deep nut brown. (Watch carefully to see that it does not burn.)
 
 ### Step 2
