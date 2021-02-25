@@ -5,10 +5,11 @@ parent: Recipes
 nav_order: 3
 ---
 # Tom's Home-Made Pizza
-![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)
+![Photo of yummy pizza](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Homemade_cheese_pizza_with_pepperoni_and_salami._Mix_pizza_in_the_restaurant._%2849134398781%29.jpg/1280px-Homemade_cheese_pizza_with_pepperoni_and_salami._Mix_pizza_in_the_restaurant._%2849134398781%29.jpg)
+#![Photo of yummy pizza](https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_bonappetit.png,fl_progressive,g_face,h_450,q_80,w_800/v1423770879/bonappetit_cook-like-a-pro-mario-batali-s-technique-to-classic-homemade-pizza.jpg)
 <br>
 <br>
-Source: Thomas Hillman, *dough adapted from [American Pie](https://www.goodreads.com/book/show/68648.American_Pie) by Peter Reinhart*
+Source: Thomas Hillman, *dough adapted from [American Pie](https://www.goodreads.com/book/show/68648.American_Pie) by Peter Reinhart, photo WikiMedia Commons.*
 <br>
 <br>
 Cooking 🕘 2 hrs
