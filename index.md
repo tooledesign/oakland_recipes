@@ -6,6 +6,9 @@ nav_order: 1
 <head>
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
+
+![Image](Mid-Atlantic%20Planning%20Team_trim.png)
+
 <center><img src="chef-delivery-logo-by-Vexels.png" alt="drawing" width="30%"/></center>
 ## Hello, Oakland!
 <br>
@@ -15,5 +18,5 @@ Thanks for the Valentine's Day 💌. We really appreciated you sharing some 💓
 *The Mid-Atlantic Planning Team*
 <br>
 <br>
-![Image](Mid-Atlantic%20Planning%20Team_trim.png)
+
 
