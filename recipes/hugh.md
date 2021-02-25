@@ -37,3 +37,9 @@ Cooking 🕘 1 hr
 <input type="checkbox" enabled /> Season with salt and pepper, if needed.<br>
 ### Step 6
 <input type="checkbox" enabled /> Serve right away with toppings like fresh cilantro and a squeeze of fresh lime juice, or store in the fridge up to 5 days. Can be frozen up to 3 months.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+[Back to top](top)
