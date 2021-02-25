@@ -34,11 +34,11 @@ Cooking 🕘 1 hour 30 min
 ###  Step 1
 <input type="checkbox" enabled /> Preheat the oven to 450°F. (Alternatively, heat a grill to medium heat, with cooler coals or low flames on one side. You can grill the chicken over hotter flames, but it can be challenging to manage; for beginners, it’s good to err on the side of the coals being slightly cooler than slightly hotter.)
 
-## Step 2 
+### Step 2 
 <input type="checkbox" enabled /> Remove the chicken from the marinade (discarding the marinade the chicken was sitting in) and place skin side up on a rimmed baking sheet. Roast until the skin is deeply browned and lightly charred and the chicken is cooked through, 35 to 45 minutes; no need to flip or turn the chicken. (Alternatively, place the chicken skin side down on the grill and cover; make sure the vents are open. Let it grill, resisting the urge to turn or check too frequently, until it’s nicely golden brown with those cute little grill marks, 10 to 12 minutes; just like when you’re searing chicken in a skillet, the skin will release effortlessly once it’s cooked and golden. Attempting to move it beforehand will probably tear the skin and maybe ruin your day! Using your finest and largest tongs, carefully flip the chicken and cover so that it continues to grill and cook on the other side, another 10 to 12 minutes. Flip once more, skin side down, and add a few halves of cut citrus. Continue to grill another 5 to 8 minutes, to recrisp the skin and finish cooking through.)
 
-## Step 3
+### Step 3
 <input type="checkbox" enabled /> Place the remaining citrus slices on a platter or cutting board and scatter with the herbs. Place the cooked chicken on top, skin side up, and pour the reserved marinade over. Let the chicken rest for 10 to 20 minutes, allowing its juices to mingle with the fresh citrus and herbs. Carve the chicken into pieces before serving.
 
-## *Do Ahead:*
+#### *DO AHEAD:* 
 Chicken can be cooked a few hours ahead, loosely covered with foil, and kept at room temperature. Serve either at room temperature or throw it back into a 450°F oven (or on the grill) for a quick reheat
