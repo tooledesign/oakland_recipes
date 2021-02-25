@@ -1,10 +1,10 @@
-Citrus Chicken Rested in Herbs
+# Citrus Chicken Rested in Herbs
 
 ![Photo of yummy Citrus Chicken Recipe on a dining plate](https://images.squarespace-cdn.com/content/v1/541b1515e4b0a990b33a796e/1567023871119-UDIZO1MGLAD74DMTRV6W/ke17ZwdGBToddI8pDm48kIIWdAnyBSrZ5E6Gv7JXlDh7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0k9kZPbuygN4RSDPe_G5PO_pbVb0jdkjHmk-MhSr8npod9fyhKaF6iH64GfT8sX2GQ/mains.jpg?format=500w)
 
 Source: [Nothing Fancy by Alison Roman](https://www.alisoneroman.com/nothing-fancy)
 
-serves 4 to 6
+*serves 4 to 6*
 
 Ingredients
 2 tablespoons (1 1/2 sticks)/170 grams unsalted butter ½ cup/120 ml maple syrup 2 ¼ cups/530 ml buttermilk 3 large eggs 1 ½ cups/180 grams yellow cornmeal, fine or medium-coarse grind ½ cup/65 grams whole wheat flour ½ cup/60 grams all-purpose flour 1 ½ tablespoons/18 grams baking powder 1 ½ teaspoons/9 grams kosher salt ½ teaspoon/5 grams baking soda
