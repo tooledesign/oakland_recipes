@@ -40,3 +40,9 @@ Cooking 🕘 30 min
 <input type="checkbox" enabled /> In a small mixing bowl whisk together mayonnaise with sriracha. Thin with 1 1/2 tsp of water if desired. Transfer to a sandwich size resealable bag. Set aside.<br>
 ### Step 4
 <input type="checkbox" enabled /> In a small mixing bowl whisk together soy sauce and remaining 1 Tbsp vinegar, set aside. In a large mixing bowl gently toss together crab meat, cucumber, carrots, nori, ginger and avocado. Divide prepared rice among 4 or 5 bowls. Top with crab mixture then spoon soy sauce mixture over top of each serving. Cut a small tip from one corner of the resealable bag holding the sriracha mixture, drizzle over each serving. Serve immediately.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+[Back to top](top)
