@@ -8,9 +8,9 @@ has_toc: false
 
 # Our Favorite Recipes, for You
 
-[Brown Butter Skillet Cornbread](/_recipes/dan.md) from Dan Goodman
+[Brown Butter Skillet Cornbread](/recipes/dan.md) from Dan Goodman
 <br>
-[Citrus Chicken Rested in Garlic](/_recipes/daniel.md) from Daniel Paterson
+[Citrus Chicken Rested in Garlic](/recipes/daniel.md) from Daniel Paterson
 <br>
 <br>
 [Back to top](top)
