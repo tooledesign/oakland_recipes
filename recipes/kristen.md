@@ -21,6 +21,4 @@ Kristen contributed this whole book of tasty vegan recipes. Check it out at the 
 <br>
 <br>
 <br>
-<br>
-<br>
 [Back to top](top)
