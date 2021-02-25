@@ -1,9 +1,7 @@
 ---
 layout: default
 title: Recipes
-nav_order: 2
 has_children: true
-has_toc: true
 ---
 
 # Our Favorite Recipes, for You
