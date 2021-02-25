@@ -2,7 +2,7 @@
 layout: default
 title: Wendy Phelps
 parent: Recipes
-nav_order: 5
+nav_order: 6
 ---
 # California Roll Sushi Bowls
 [![Photo of yummy california roll sushi bowl recipe on a dining plate](recipes/wendy_recipe.jpg)](https://www.cookingclassy.com/california-roll-sushi-bowls/)  
