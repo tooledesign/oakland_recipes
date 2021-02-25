@@ -10,7 +10,7 @@ has_toc: false
 
 [Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
 <br>
-[Citrus Chicken Rested in Garlic](dan.md) from Daniel Paterson
+[Citrus Chicken Rested in Garlic](daniel.md) from Daniel Paterson
 <br>
 <br>
 [Back to top](top)
