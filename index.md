@@ -1,19 +1,20 @@
-## Welcome to GitHub Pages
+## Hello, Oakland!
 
-You can use the [editor on GitHub](https://github.com/tomhillman/oakland_recipes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](Mid-Atlantic%20Planning%20Team.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks for the Valentine's Day card. We really appreciated you sharing some love from coast-to-coast. Our team pulled together a few of our favorite recipes to show our gratitude.
 
-### Markdown
+**Stay safe**, and happy \(almost) spring.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-the Mid-Atlantic Planners
+
+## Our Favorite Recipes, for You
+
+[Brown Butter Skillet Cornbread](dan.md)
+from Dan Goodman
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+### 
 
 - Bulleted
 - List
@@ -23,8 +24,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
