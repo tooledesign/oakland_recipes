@@ -7,7 +7,7 @@ nav_order: 3
 ---
 # Orecchiette With Bacony Collards & Cannellini Beans
 [![Photo of yummy orecchiette recipe on a dining plate](https://images.food52.com/Ym9yhVJGuCxS-O03fjxU5Nm9C9k=/1008x672/filters:format(webp)/43176ccb-6456-4214-8061-ec285771afa5--2020-1023_orecchiette-collards-cannellini_3x2_julia-gartland_156.jpg)](https://food52.com/recipes/84315-orecchiette-bacon-collards-cannellini-beans-recipe)
-Source: Soha el-Waylly, *[Food 52](https://www.alisoneroman.com/nothing-fancy)*
+Source: Soha el-Waylly, *[Food 52](https://food52.com/recipes/84315-orecchiette-bacon-collards-cannellini-beans-recipe)*
 Cooking 🕘 1 hour 30 min
 *serves 4*
 ## Ingredients
