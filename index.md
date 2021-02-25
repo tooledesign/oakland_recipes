@@ -12,13 +12,3 @@ Thanks for the Valentine's Day card. We really appreciated you sharing some love
 **Stay safe**, and happy \(almost) spring.
 
 -the Mid-Atlantic Planning Team
-
-## Our Favorite Recipes, for You
-<br>
-[Brown Butter Skillet Cornbread](dan.md) from Dan Goodman
-<br>
-[Citrus Chicken Rested in Garlic](daniel.md) from Daniel Paterson 
-
-<br>
-<br>
-[Back to top](#top)
