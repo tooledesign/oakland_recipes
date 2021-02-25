@@ -1,3 +1,8 @@
+---
+layout: default
+title: Hello, Oakland!
+nav_order: 1
+---
 ## Hello, Oakland!
 
 ![Image](Mid-Atlantic%20Planning%20Team.png)
