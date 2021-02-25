@@ -10,6 +10,9 @@ has_toc: false
 
 [Brown Butter Skillet Cornbread](recipes/dan.md) from Dan Goodman
 <br>
+<br>
+[Orecchiette With Bacony Collards & Cannellini Beans](recipes/daniel.md) from Katie Heuser
+<br>
 [Citrus Chicken Rested in Garlic](recipes/daniel.md) from Daniel Paterson
 <br>
 <br>
